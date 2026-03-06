@@ -1,0 +1,18 @@
+addIngredient("paper",{
+  color:"#FFFFFF",
+  innerColor:"#FFFFFF",
+  type:"rock",
+  shape:"rectangle_fold_top_right"
+  keywords: ["paper","wood"],});
+});
+addRecipe("paper+water","paper mache");
+
+addIngredient("crate",{
+  color:"#895129",
+  innerColor:"#895129",
+  type:"rock",
+  shape:"crate"
+  keywords: ["box","wood","crate"],});
+});
+
+  addRecipe("candy+paper","wrapped");
